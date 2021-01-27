@@ -30,17 +30,6 @@ public class Loops {
                 System.out.println("The value of h is:" + h);
             }
 
-    /*        if (h%2 != 0) {
-                System.out.println("Hello");
-            }
-                    if (h % 5 == 0) {
-                        System.out.println("World");
-                    }
-
-                    if (h % 5 == 0 && h % 3 == 0) {
-                      System.out.println("HelloWorld");
-                    }
-                    System.out.println("The value of h is:" + h);*/
         }
 
     }
