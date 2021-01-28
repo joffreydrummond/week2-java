@@ -27,8 +27,6 @@ public class Loops {
             } else {
                 System.out.println("The value of h is:" + h);
             }
-
         }
-
-    }
+       }
 }
